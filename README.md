@@ -15,7 +15,7 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/tg_credit_card/main/bot_menu.png)
+![image](https://github.com/YulianaRomashkinaQA-gif/tg_credit_card/blob/main/bot_menu.png)
 
 После выбора карты Visa:
 
