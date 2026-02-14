@@ -61,4 +61,4 @@ python3 card_bot.py
 
 ## Автор
 
-Максим Евдокимов ([@Yuliana_Romashkina](https://t.me/Yuliana_Romashkina))
+Юлиана Ромашкина ([@Yuliana_Romashkina](https://t.me/Yuliana_Romashkina))
