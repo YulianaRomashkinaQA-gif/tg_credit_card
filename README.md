@@ -19,7 +19,7 @@
 
 После выбора карты Visa:
 
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/tg_credit_card/main/visa_card.png)
+![image](https://github.com/YulianaRomashkinaQA-gif/tg_credit_card/blob/main/visa_card.png)
 
 
 ## 💻 Технологии
